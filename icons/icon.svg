@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#183a2b"/>
+  <ellipse cx="256" cy="278" rx="126" ry="160" fill="#f9f2e6" transform="rotate(-8 256 278)"/>
+  <path d="M174 275c42-38 126-52 183-18" fill="none" stroke="#c9a66e" stroke-linecap="round" stroke-width="24"/>
+  <circle cx="256" cy="278" r="20" fill="#c9a66e"/>
+  <text x="256" y="104" fill="#fffdf9" font-family="Arial,sans-serif" font-size="48" font-weight="700" text-anchor="middle">CFE</text>
+</svg>

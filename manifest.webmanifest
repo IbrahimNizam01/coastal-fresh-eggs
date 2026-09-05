@@ -1,0 +1,46 @@
+{
+  "name": "Coastal Fresh Eggs",
+  "short_name": "Fresh Eggs",
+  "description": "Fresh eggs collected daily and delivered around Ullal, Mangalore.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4efe7",
+  "theme_color": "#183a2b",
+  "lang": "en-IN",
+  "categories": ["shopping", "food", "lifestyle"],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Order on WhatsApp",
+      "short_name": "Order",
+      "url": "./#products",
+      "icons": [
+        {
+          "src": "icons/icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Check delivery area",
+      "short_name": "Delivery",
+      "url": "./#delivery-area",
+      "icons": [
+        {
+          "src": "icons/icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}
